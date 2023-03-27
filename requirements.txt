@@ -4,3 +4,4 @@ requests-cache==1.0.1
 pytest==7.2.2
 geopandas==0.12.2
 sentence-transformers==2.2.2
+loguru==0.6.0
