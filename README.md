@@ -3,7 +3,25 @@ A Python client for the [geoboundaries API](https://www.geoboundaries.org/api.ht
 
 ## Installation
 
-To do
+There are two main options for installing `pygeoboundaries`:
+
+### Install from a tag
+
+```bash
+pip install git+https://github.com/AndreCNF/pygeoboundaries.git@v1.0.0
+```
+
+### Install locally
+
+1. Clone the repository
+    ```bash
+    git clone git@github.com:AndreCNF/pygeoboundaries.git
+    ```
+1. Install the package locally
+    ```bash
+    cd pygeoboundaries
+    pip install -e .
+    ```
 
 ## Access administrative boundaries
 
